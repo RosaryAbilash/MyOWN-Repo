@@ -1,0 +1,100 @@
+Packet: Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 86:f5:af:77:09:01
+Packet: Ether / IPv6 / ICMPv6ND_NA / ICMPv6 Neighbor Discovery Option - Destination Link-Layer Address 84:7b:57:cb:05:20
+Packet: Ether / IP / UDP / DNS Qry "b'mobile.events.data.microsoft.com.'" 
+Packet: Ether / IP / UDP / DNS Qry "b'mobile.events.data.microsoft.com.'" 
+Packet: Ether / IP / UDP / DNS Qry "b'mobile.events.data.microsoft.com.'" 
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 > 64:ff9b::68d0:105a:https PA / Raw
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 > 64:ff9b::68d0:105a:https PA / Raw
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 > 64:ff9b::68d0:105a:https PA / Raw
+Packet: Ether / IP / UDP / DNS Ans "b'mobile.events.data.trafficmanager.net.'" 
+Packet: Ether / IP / UDP / DNS Ans "b'mobile.events.data.trafficmanager.net.'" 
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 A / Padding
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 PA / Raw
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 A / Padding
+Packet: Ether / IP / UDP / DNS Ans "b'mobile.events.data.trafficmanager.net.'" 
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 A / Padding
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 > 64:ff9b::68d0:105a:https A
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 A / Padding
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 PA / Raw
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 PA / Raw
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 > 64:ff9b::68d0:105a:https A
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 > 64:ff9b::68d0:105a:https PA / Raw
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 PA / Raw
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 A / Padding
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 > 64:ff9b::68d0:105a:https A
+Packet: Ether / IP / UDP / DNS Qry "b'chat.openai.com.'" 
+Packet: Ether / IP / UDP / DNS Qry "b'chat.openai.com.'" 
+Packet: Ether / IP / UDP / DNS Qry "b'chat.openai.com.'" 
+Packet: Ether / IP / UDP / DNS Ans "b'chat.openai.com.cdn.cloudflare.net.'" 
+Packet: Ether / IP / UDP / DNS Ans "b'chat.openai.com.cdn.cloudflare.net.'" 
+Packet: Ether / IP / UDP / DNS Ans "b'chat.openai.com.cdn.cloudflare.net.'" 
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 > 64:ff9b::68d0:105a:https PA / Raw
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 > 64:ff9b::68d0:105a:https PA / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 A / Padding
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / ARP who has 192.168.181.70 says 192.168.181.2
+Packet: Ether / ARP is at 84:7b:57:cb:05:20 says 192.168.181.70
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / UDP 2606:4700:83b1:c4f:6afe:485:a873:e7f:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:50900 > 2606:4700:83b1:c4f:6afe:485:a873:e7f:https / Raw
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 A / Padding
+Packet: Ether / IPv6 / TCP 64:ff9b::68d0:105a:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 PA / Raw
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61689 > 64:ff9b::68d0:105a:https A
+Packet: Ether / ARP who has 192.168.181.2 says 192.168.181.70
+Packet: Ether / ARP is at 86:f5:af:77:09:01 says 192.168.181.2
+Packet: Ether / IP / UDP / DNS Qry "b'clients4.google.com.'" 
+Packet: Ether / IP / UDP / DNS Qry "b'clients4.google.com.'" 
+Packet: Ether / IP / UDP / DNS Qry "b'clients4.google.com.'" 
+Packet: Ether / IP / UDP / DNS Ans "b'clients.l.google.com.'" 
+Packet: Ether / IP / UDP / DNS Ans "b'clients.l.google.com.'" 
+Packet: Ether / IP / UDP / DNS Ans "b'clients.l.google.com.'" 
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 > 2404:6800:4007:82b::200e:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 > 2404:6800:4007:82b::200e:https / Raw
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61583 > 2404:6800:4003:c0f::bc:5228 A / Raw
+Packet: Ether / IPv6 / TCP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61584 > 64:ff9b::14d4:5875:https A / Raw
+Packet: Ether / IPv6 / UDP 2404:6800:4007:82b::200e:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 / Raw
+Packet: Ether / IPv6 / UDP 2404:6800:4007:82b::200e:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 > 2404:6800:4007:82b::200e:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 > 2404:6800:4007:82b::200e:https / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 > 2404:6800:4007:82b::200e:https / Raw
+Packet: Ether / IPv6 / TCP 2404:6800:4003:c0f::bc:5228 > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61583 A
+Packet: Ether / IPv6 / UDP 2404:6800:4007:82b::200e:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 / Raw
+Packet: Ether / IPv6 / UDP 2404:6800:4007:82b::200e:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 / Raw
+Packet: Ether / IPv6 / TCP 64:ff9b::14d4:5875:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:61584 A
+Packet: Ether / IPv6 / UDP 2404:6800:4007:82b::200e:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 > 2404:6800:4007:82b::200e:https / Raw
+Packet: Ether / IPv6 / UDP 2404:6800:4007:82b::200e:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 > 2404:6800:4007:82b::200e:https / Raw
+Packet: Ether / IPv6 / UDP 2404:6800:4007:82b::200e:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 > 2404:6800:4007:82b::200e:https / Raw
+Packet: Ether / IPv6 / UDP 2404:6800:4007:82b::200e:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 / Raw
+Packet: Ether / IPv6 / UDP 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 > 2404:6800:4007:82b::200e:https / Raw
+Packet: Ether / IPv6 / UDP 2404:6800:4007:82b::200e:https > 2409:40f4:101d:ae49:74e3:c1cf:3274:61c9:49664 / Raw
